@@ -1,8 +1,12 @@
 # DecodeLabs Project 1 — Data Cleaning & Preparation
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge)
+![Records](https://img.shields.io/badge/Records-1200%20Rows-0075ff?style=for-the-badge)
+![Verification%20Gate](https://img.shields.io/badge/Verification%20Gate-PASSED-brightgreen?style=for-the-badge)
 
 A fully reproducible Python pipeline that transforms **1,200 raw e-commerce orders**
 into production-ready data with **zero duplicates**, **zero bad dates**
