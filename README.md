@@ -8,8 +8,15 @@
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 ![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge)
 ![Verification](https://img.shields.io/badge/Verification-PASSED-brightgreen?style=for-the-badge)
+<<<<<<< HEAD
+=======
 
 </div>
+
+---
+>>>>>>> c52c3976806e88a18b8a25af7f867482078cd258
+
+A fully reproducible **Python data cleaning and preparation pipeline** that transforms **1,200 raw e-commerce orders** into production-ready data with **zero duplicates**, **zero bad dates**, and **6 business insight charts**.
 
 ---
 
