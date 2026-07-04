@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=220&section=header&text=DecodeLabs%20Project%201&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Cleaning%20%26%20Preparation%20Pipeline%20with%20Automation&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=220&section=header&text=DecodeLabs%20Project%201&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Automated%20Data%20Cleaning%20%26%20Preparation%20Pipeline&descAlignY=60&descSize=18" width="100%"/>
 
 <br/>
 
@@ -15,8 +15,9 @@
 
 </div>
 
+---
 
-A fully reproducible **Python data cleaning and preparation pipeline** that transforms **1,200 raw e-commerce orders** into production-ready datasets.
+A fully reproducible **Python data cleaning and preparation pipeline** that transforms **1,200 raw e-commerce orders** into production-ready data with **zero duplicates**, **zero bad dates**, and **6 business insight charts**.
 
 ---
 
