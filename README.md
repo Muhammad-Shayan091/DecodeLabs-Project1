@@ -1,10 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:1F3A8A,100:0D1117&height=220&section=header&text=DecodeLabs%20Project%201%20%E2%80%94%20Data%20Cleaning%20%26%20Preparation&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Integrity%20%7C%20Python%20Pipeline%20%7C%20Batch%202026&descAlignY=62&descSize=15&fontStyle=bold" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F3A8A,100:0D1117&height=200&section=header&text=DecodeLabs%20Project%201&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Cleaning%20%26%20Preparation%20%7C%20Python%20Pipeline%20%7C%20Batch%202026&descAlignY=58&descSize=16" width="100%"/>
 
 <br/>
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/) [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)]() [![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]() [![Status](https://img.shields.io/badge/Status-✅%20Completed-2ea44f?style=for-the-badge)]() [![Records](https://img.shields.io/badge/Records-1200%20Rows-0075ff?style=for-the-badge)]() [![Gate](https://img.shields.io/badge/Verification%20Gate-PASSED-brightgreen?style=for-the-badge)]()
+[
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+](https://python.org/) [
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+](https://pandas.pydata.org/) [
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+]() [
+
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+]() [
+
+![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge)
+
+]() [
+
+![Records](https://img.shields.io/badge/Records-1200%20Rows-0075ff?style=for-the-badge)
+
+]() [
+
+![Gate](https://img.shields.io/badge/Verification%20Gate-PASSED-brightgreen?style=for-the-badge)
+
+]()
 
 <br/>
 
