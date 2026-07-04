@@ -1,15 +1,22 @@
-# DecodeLabs Project 1 — Data Cleaning & Preparation
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=220&section=header&text=DecodeLabs%20Project%201&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Cleaning%20%26%20Preparation%20Pipeline%20with%20Automation&descAlignY=60&descSize=18" width="100%"/>
+
+<br/>
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Excel%20Pipeline-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge)
 ![Records](https://img.shields.io/badge/Records-1200%20Rows-0075ff?style=for-the-badge)
+![Verification](https://img.shields.io/badge/Verification-PASSED-brightgreen?style=for-the-badge)
 
-A fully reproducible Python pipeline that transforms **1,200 raw e-commerce orders**
-into production-ready data with **zero duplicates**, **zero bad dates**
-and **6 business insight charts**.
+</div>
+
+
+A fully reproducible **Python data cleaning and preparation pipeline** that transforms **1,200 raw e-commerce orders** into production-ready datasets.
 
 ---
 
