@@ -36,9 +36,7 @@
 
 <br/>
 
-> A fully reproducible Python pipeline that transforms **1,200 raw e-commerce orders**
-> into production-ready data with **zero duplicates**, **zero bad dates**
-> and **6 business insight charts**.
+> A fully reproducible Python pipeline that transforms **1,200 raw e-commerce orders** into production-ready data with **zero duplicates**, **zero bad dates** and **6 business insight charts**.
 
 <br/>
 
