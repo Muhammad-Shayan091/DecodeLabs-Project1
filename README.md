@@ -6,11 +6,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Excel%20Pipeline-blueviolet?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge)
-![Records](https://img.shields.io/badge/Records-1200%20Rows-0075ff?style=for-the-badge)
 ![Verification](https://img.shields.io/badge/Verification-PASSED-brightgreen?style=for-the-badge)
 
 </div>
